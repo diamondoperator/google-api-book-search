@@ -1,0 +1,8 @@
+.filter{
+  display: flex;
+  justify-content: center;
+  height: max-content;
+  padding: 1rem;
+  background-color: lightgray;
+
+}

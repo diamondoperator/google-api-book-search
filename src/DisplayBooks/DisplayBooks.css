@@ -1,0 +1,16 @@
+.book-item{
+  display: flex;
+  border-bottom: 1px solid;
+  padding: 1rem 0;
+  align-items: center;
+}
+
+.book-info{
+  margin-left:1.5rem;
+}
+
+.book-item img{
+  margin-left: 1rem;
+  height: max-content;
+  width: auto;
+}
